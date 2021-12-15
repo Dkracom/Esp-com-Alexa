@@ -2,8 +2,8 @@
 #include <fauxmoESP.h>
 #include <ESP8266WiFi.h>
 #define SERIAL_BAUDRATE 115200
-#define WIFI_SSID "Sergio"
-#define WIFI_PASS "WAsd1234-"
+#define WIFI_SSID "******"//SSID da Rede Escolhida
+#define WIFI_PASS "********"//Senha da Rede Escolhida
 
 //Declaração das Variáveis
 int controle = 0;
